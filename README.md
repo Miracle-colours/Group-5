@@ -75,6 +75,4 @@ Then open the local URL shown in your terminal.
 
 ## 🚀 Live Deployment
 
-[View Live Project](https://group-5-jkms.vercel.app/)
-
-> Replace the above link with the actual deployed site URL when available.
+[https://group-5-jkms.vercel.app/]
