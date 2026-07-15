@@ -72,3 +72,8 @@
   white-space: nowrap;
   border-right: 1px solid #b0bcd4;
 }
+@media (max-width: 480px) {
+  .data-table-section {
+    display: none;
+  }
+}

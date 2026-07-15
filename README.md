@@ -38,6 +38,7 @@ A React-based web app that explores the solar system with real planetary data an
 | Daniel   | https://github.com/danielasakpa1-star          |
 | Ugoh     | https://github.com/ugohkim-art                 |
 | Zulaihat | https://github.com/zulleeyyy                   |
+| Anita    | https://github.com/anitacharles540/Anita       |
 
 ---
 
@@ -75,5 +76,3 @@ Then open the local URL shown in your terminal.
 ## 🚀 Live Deployment
 
 [View Live Project](https://group-5-jkms.vercel.app/)
-
-> Replace the above link with the actual deployed site URL when available.
